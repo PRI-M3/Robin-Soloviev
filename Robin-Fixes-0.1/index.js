@@ -20,4 +20,4 @@ bot.use(
 bot.catch(logError);
 
 // eslint-disable-next-line @typescript-eslint/no-floating-promises
-bot.launch
+bot.launch();
