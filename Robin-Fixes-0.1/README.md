@@ -2,9 +2,11 @@
   <img src="https://static.zerochan.net/Robin.Soloviev.full.2000253.jpg">
   <h1 align="center">Robin Soloviev</h1>
 </p>
-The Guard is a Telegram bot made to help admins manage their groups.
+The Robin Soloviev is a Telegram bot.
 
-Initially created to moderate [The Devs Network](https://thedevs.network).
+ [IMAGE From](https://www.zerochan.net/) By _ Wenqing Yan, Fisheye Placebo, Robin Soloviev, Original, deviantART, Facebook Cover
+
+
 
 **NOTE: The Guard is in beta phase;**
 **it has known issues, but it's successfully being used in production**.
@@ -75,6 +77,9 @@ If used by reply, `/ban` and `/warn` would remove the replied-to message.
 
 ---
 
-> Important Note: Under the AGPL-3.0 license, if you're running your own instance, you should add a link to the source [(this repository)](https://github.com/TheDevs-Network/the-guard-bot) in your bot's bio. If you're modifying this source and making your own bot, you should link to the source of your own version of the bot according to the AGPL-3.0 license. Check [LICENSE](LICENSE) for more info.
+> Important Note: Under the AGPL-3.0 license, if you're running your own instance, you should add a link to the source in your bot's bio. If you're modifying this source and making your own bot, you should link to the source of your own version of the bot according to the AGPL-3.0 license. Check [LICENSE](LICENSE) for more info.
 
-`The Guard` icon is from [Entypo+](http://entypo.com/) by Daniel Bruce.
+
+
+
+(
